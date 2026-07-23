@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/justi/Downloads/Werewolf/Content/BP_Player.uasset",
+				"C:/Users/justi/Downloads/Werewolf/Content/Player/BP_Player.uasset",
+				"C:/Users/justi/Downloads/Werewolf/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/Users/justi/Downloads/Werewolf/Content/Player/BPC_PlayerController.uasset",
+				"C:/Users/justi/Downloads/Werewolf/Content/Player/GM_WerewolfGame.uasset"
+			]
+		}
+	]
+}
