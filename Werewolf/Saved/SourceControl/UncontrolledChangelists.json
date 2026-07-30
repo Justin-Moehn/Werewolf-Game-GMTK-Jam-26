@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/LVL_Menu.umap",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/Townsfolk/BP_Hunter.uasset",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/Player/GM_WerewolfGame.uasset",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/Buildings/BP_BuildingParent.uasset",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/Enums/E_TownsfolkAbilities.uasset",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/LVL_Level1.umap",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/Widgets/WB_Pause.uasset",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/Assets/People/FB_FollowIco.uasset",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/Player/BP_Player.uasset",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/Townsfolk/BP_TownsfolkParentNew.uasset",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/Interface/BPI_IMouseSelectable.uasset",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/Assets/People/FollowIcon.uasset",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/Assets/People/FollowIcon2.uasset",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/Assets/People/FollowIcon_Sprite.uasset",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/Assets/People/FollowIcon2_Sprite.uasset",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/Assets/People/FollowIcon1.uasset",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/Townsfolk/BP_Criminal.uasset",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/Townsfolk/BP_FemaleLover.uasset",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/Townsfolk/BP_KeySmith.uasset",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/Townsfolk/BP_NormalVillager.uasset",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/Townsfolk/BP_Doctor.uasset",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/Townsfolk/BP_MaleLover.uasset",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/PickupItems/WorldObjectPickups/BP_WorldPickupParent.uasset",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/Widgets/WB_TownfolkName.uasset",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/Widgets/WB_EndRoundScore.uasset",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/Widgets/WB_Dock.uasset",
+				"C:/Users/justi/Downloads/Werewolf-Game-GMTK-Jam-26/Werewolf/Content/Widgets/WB_PlayerHUD.uasset"
+			]
+		}
+	]
+}
